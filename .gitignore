@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Tooling caches
+.mypy_cache/
+.pytest_cache/
+
+# OS
+.DS_Store
+
+# Instructor-only materials (do not commit)
+INSTRUCTOR_GUIDE.md
+instructor_solution/
