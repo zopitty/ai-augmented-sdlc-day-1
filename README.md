@@ -12,7 +12,7 @@ This is a **Skill Drill**. Your goal is to practice specific **Prompt Engineerin
 ---
 
 ## Instructions
-**IMPORTANT (graded/checked):** Continuously update `lab_prompts.md` with **every prompt you use**.
+**IMPORTANT:** Continuously update `lab_prompts.md` with **every prompt you use**.
 
 - Add prompts **as you go** (don’t wait until the end).
 - Include both your prompts and Copilot’s key responses when helpful.
@@ -24,7 +24,7 @@ This is a **Skill Drill**. Your goal is to practice specific **Prompt Engineerin
 1.  Open `shipping_calculator.py`.
 2.  Open **Copilot Chat**.
 3.  **Define the Persona:** Instruct Copilot to act as a "Senior Python Backend Engineer" who cares about clean architecture and PEP8.
-4.  **Gather Requirements:** Instead of guessing what `w`, `d`, and `p` mean, use **Reverse Prompting**. Ask Copilot to interview *you* about the business rules before it writes any code.
+4.  **Gather Requirements:** Instead of guessing what `w`, `d`, and `p` mean, use **Reverse Prompting**. Ask Copilot to ask you ~3 requirements-clarification questions about business rules/inputs/edge cases before it writes any code.
     * *Hint:* "Before you write code, ask me 3 clarifying questions..."
     * *Context:* If asked, tell Copilot: Weight is in kg, Distance in km, Currency in USD.
 5.  **Update `lab_prompts.md`:** Paste the exact prompts you used in this step.

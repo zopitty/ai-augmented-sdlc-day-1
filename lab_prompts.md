@@ -3,7 +3,7 @@
 **Instructions:** Record the exact prompts you typed into GitHub Copilot for each step below (copy/paste). Optionally include key parts of Copilot’s response.
 
 ## Step 1: Role & Requirements Clarification (Reverse Prompting)
-*(Paste your persona setup and your request for **clarifying questions** here. The goal is to have Copilot ask you ~3 questions about requirements/business rules/inputs/edge cases **before writing any code**. This is requirements-clarification questions for the coding exercise.)*
+*(Paste your persona setup and your request for **clarifying questions** here. The goal is to have Copilot ask you ~3 questions about requirements/business rules/inputs/edge cases **before writing any code**. These are requirements-clarification questions for the coding exercise (not a job interview).)*
 
 
 ## Step 2: Planning (Zero-Shot CoT + RAG)
